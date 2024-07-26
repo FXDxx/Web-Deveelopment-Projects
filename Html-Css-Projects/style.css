@@ -1,0 +1,12 @@
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.d-flex {
+    display: flex;
+    justify-content: center;
+}
+
+#profile{
+    display: flex;
+    justify-content: end;
+}
